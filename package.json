@@ -1,0 +1,15 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "Discord bot for the Clube do Davi server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davi Clemente",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.16.3"
+  }
+}
